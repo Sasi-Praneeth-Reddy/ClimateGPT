@@ -8,12 +8,12 @@ Professor Isaac K. Gang
 Erasmus.AI
 
 # Team Members:
-*Nithish Kumar Amjolu
-*Sasank Chithirala
-*Bharath Kosur Manjunathraju
-*Maneesha Reddy Mundla
-*Sasi Praneeth Reddy Sadhu
-*Sai Siva Sri Harsha Vasinenku
+- Nithish Kumar Amjolu
+- Sasank Chithirala
+- Bharath Kosur Manjunathraju
+- Maneesha Reddy Mundla
+- Sasi Praneeth Reddy Sadhu
+- Sai Siva Sri Harsha Vasinenku
  
  
  
