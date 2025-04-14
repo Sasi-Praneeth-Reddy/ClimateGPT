@@ -24,4 +24,4 @@ The project uses the ClimateGPT model to generate humanized responses:
 - **Authentication**:
   ```python
   auth = (os.getenv("API_USER"), os.getenv("API_KEY"))
-  Ensure the API_USER and API_KEY environment variables are set to correspond with the credentials stored in your auth.enc file.
+- Ensure the API_USER and API_KEY environment variables are set to correspond with the credentials stored in your auth.enc file.
