@@ -1,4 +1,4 @@
-# Project README
+# Project Integrating new datasets into ClimateGPT using MCP server
 
 This project processes climate and emissions data for seven South Asian countries using ERA5 and EDGAR datasets, with server-client scripts for data handling and a ClimateGPT API for generating humanized responses.
 
